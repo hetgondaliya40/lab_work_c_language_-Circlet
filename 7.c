@@ -1,4 +1,12 @@
- #include<stdio.h>
+/*
+Q.7 Write a Program to print the below pattern using nested for loop.
+           *
+        *     *
+      *         *
+    *             *
+  *                 *
+  */
+#include<stdio.h>
 
 main()
 {
